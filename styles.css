@@ -1,0 +1,58 @@
+header,footer {
+    background-color: rgb(78, 42, 78);
+    text-align: center;
+    padding: 10px;
+    color: white;
+}
+
+nav {
+    padding: 20px 10px;
+}
+
+nav a {
+ background-color: rgb(71, 5, 115);
+ border: 1px solid white;
+ border-radius: 10px;
+ text-decoration: none;
+ margin: 15px;
+ color: rgb(255, 255, 255);
+}
+
+.foot {
+    font-size: 12px;
+}
+
+main h1{
+    color: blueviolet;
+}
+
+main h2{
+    color: blueviolet;
+}
+
+main p{
+    color: blueviolet;
+}
+
+img{
+    width: 250px;
+}
+
+ main p{
+    padding: 2px 1px;
+}
+
+main a {
+ background-color: rgb(73, 1, 121);
+ border: 1px solid white;
+ border-radius: 10px;
+ text-decoration: none;
+ margin: 15px;
+ color: white;
+ padding: 5px 15px;
+}
+
+body{
+    font-family: bradley hand,cursive;
+}
+
